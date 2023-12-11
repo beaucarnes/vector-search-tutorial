@@ -1,0 +1,3 @@
+What is the best way to help with freeCodeCamp.org??
+How do I setup freeCodeCamp to run locally?
+What type of license is the freeCodeCamp codebase released under?
